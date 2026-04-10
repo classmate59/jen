@@ -1,1 +1,2 @@
 echo "hello tinku"
+date 
